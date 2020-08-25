@@ -3,7 +3,7 @@ package ar.com.ada.online.second.myfirstobject;
 public class Person {
     String name;
     String lastName;
-    String age;
+    Integer age;
 
 
     void sing(){

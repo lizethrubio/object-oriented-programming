@@ -9,7 +9,7 @@ public class Vehicule {
         System.out.println("Estoy moviendome");
     }
 
-    void break(){
+    void brake(){
         System.out.println("Estoy en brake");
     }
 
